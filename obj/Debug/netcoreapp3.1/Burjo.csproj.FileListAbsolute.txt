@@ -1,0 +1,26 @@
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\Burjo\bin\Debug\netcoreapp3.1\Burjo.exe
+I:\AMIKOM\sem 2\Pemrograman\Burjo\bin\Debug\netcoreapp3.1\Burjo.deps.json
+I:\AMIKOM\sem 2\Pemrograman\Burjo\bin\Debug\netcoreapp3.1\Burjo.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\Burjo\bin\Debug\netcoreapp3.1\Burjo.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\Burjo\bin\Debug\netcoreapp3.1\Burjo.dll
+I:\AMIKOM\sem 2\Pemrograman\Burjo\bin\Debug\netcoreapp3.1\Burjo.pdb
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.dll
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.pdb
+I:\AMIKOM\sem 2\Pemrograman\Burjo\obj\Debug\netcoreapp3.1\Burjo.genruntimeconfig.cache
+C:\Users\MTYU\Downloads\Burjo\bin\Debug\netcoreapp3.1\Burjo.exe
+C:\Users\MTYU\Downloads\Burjo\bin\Debug\netcoreapp3.1\Burjo.deps.json
+C:\Users\MTYU\Downloads\Burjo\bin\Debug\netcoreapp3.1\Burjo.runtimeconfig.json
+C:\Users\MTYU\Downloads\Burjo\bin\Debug\netcoreapp3.1\Burjo.runtimeconfig.dev.json
+C:\Users\MTYU\Downloads\Burjo\bin\Debug\netcoreapp3.1\Burjo.dll
+C:\Users\MTYU\Downloads\Burjo\bin\Debug\netcoreapp3.1\Burjo.pdb
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.csprojAssemblyReference.cache
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.csproj.CoreCompileInputs.cache
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.AssemblyInfoInputs.cache
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.AssemblyInfo.cs
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.dll
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.pdb
+C:\Users\MTYU\Downloads\Burjo\obj\Debug\netcoreapp3.1\Burjo.genruntimeconfig.cache
